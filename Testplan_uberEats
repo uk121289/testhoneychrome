@@ -1,0 +1,110 @@
+Question 1: Create a Test Plan for Uber Eats 
+
+Overview: 
+
+This document is to create a test plan for Uber Eats app by using React Native framework. Main motive of the application is to connect users for efficient food orders and deliveries. It is user friendly interface to provide a bridge between customers and restaurants 
+It summarizes functionality, usability and performance testing to be performed on this initiative. 
+
+It contains details of: 
+
+Test objectives 
+
+Test deliveries 
+
+Test roles and responsibilities 
+
+Test Phase, entry and exit criteria 
+
+Any risks, issues, assumptions and test dependencies 
+
+Scopes and Objectives: 
+
+Application supports both iOS and Android platforms 
+
+Applicable for new and existing Individual customers 
+
+Allows various payment methods: credit cards, digital wallets, visa cards 
+
+Allows customer support services/ online chat services 
+
+Testing coverage: 
+
+# 
+
+Scenarios 
+
+1 
+
+Customer is able to create account/ logging in to existing account 
+
+2 
+
+Validate Australian address for delivery 
+
+3 
+
+Diverse Restaurant selection for ordering food 
+
+4 
+
+Manage and browse menus with updated prices 
+
+4 
+
+Offers applicable 
+
+5 
+
+Secure payment methods 
+
+6 
+
+Delivery tracking 
+
+7 
+
+Review/ rating system 
+
+8 
+
+Delivery driver details  
+
+9 
+
+Order history/favourites 
+
+10 
+
+Push Notifications 
+
+11 
+
+Customer Support 
+
+ 
+
+Assumptions: 
+
+Efficient user connectivity 
+
+Payment processing 
+
+Account management 
+
+Tracking orders in real time 
+
+Feedback/ratings for services 
+
+Dependencies: 
+
+Quality check challenge 
+
+Dependency on third party devices like payment/ restaurant partnership/delivery logistics 
+
+User interface  
+
+ 
+
+ 
+
+ 
